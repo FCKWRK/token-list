@@ -1,0 +1,13 @@
+{
+  "chainId": 101,
+  "address": "4JiVQNhtYc7uvEdscWi7sHY4jh8K9fX3u8qGiyJmj9dv",
+  "symbol": "FCKWRK",
+  "name": "theFCKWRKmemecoin",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/3TP6Cyw.png",
+  "tags": ["memecoin"],
+  "extensions": {
+    "website": "https://thefckwrkmemecoin.com/",
+    "twitter": "https://twitter.com/FCKWRKmemecoin"
+  }
+}
